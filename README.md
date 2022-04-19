@@ -1,4 +1,4 @@
-HI, Devs!!
+Hi, Devs!!
 Seja bem vindo ao meu perfil GitHub 
             <i class="devicon-github-original-wordmark colored"></i>
           
