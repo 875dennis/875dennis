@@ -1,5 +1,7 @@
 HI, Devs!!
 Seja bem vindo ao meu perfil GitHub 
+            <i class="devicon-github-original-wordmark colored"></i>
+          
           
 
 Me chamo Dennis e sou um dev em desenvolvimento, tenho 26 anos e moro na baixada Santista.
